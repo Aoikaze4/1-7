@@ -13,8 +13,9 @@
   padding: 20px 0px 0px 20px;
   background-image: url("img/mv.jpg");
   height: 400px;
+  width: 100%;
   background-position: bottom;
-  background-size: 100%;
+  background-size: cover;
 }
 
 main {
