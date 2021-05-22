@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+
+a {
+  text-decoration: none;
+}
+
+.heading {
+  padding: 20px 0px 0px 20px;
+  background-image: url("img/mv.jpg");
+  height: 400px;
+  background-position: bottom;
+  background-size: 100%;
+}
